@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Step 1: Open osTicket and log in using credentials from installation tutorial </h3>
 
-- If you need help installing osTicket, please see my tutorial [here](https://github.com/miquelmanaois/osticket-prereqs)
+- If you need help installing osTicket, please see my tutorial [here](https://github.com/jasminebaldwin/osticket-prereqs)
 
 <p align="center">
 <img src="https://i.imgur.com/gAXVBO2.png" height="80%" width="80%" alt="Azure Free Account"/>	
